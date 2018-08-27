@@ -1,0 +1,946 @@
+NAME,lon,lat
+"Sioux Falls, SD",-96.990,43.500
+"Baraboo, WI",-89.948,43.427
+"Roanoke, VA",-79.947,37.286
+"Wichita Falls, TX",-98.491,33.775
+"Fort Payne, AL",-85.804,34.460
+"Atlanta-Sandy Springs-Roswell, GA",-84.400,33.693
+"Idaho Falls, ID",-112.428,43.623
+"Burlington-South Burlington, VT",-73.031,44.687
+"Huntington-Ashland, WV-KY-OH",-82.379,38.381
+"Centralia, WA",-122.393,46.578
+"Baltimore-Columbia-Towson, MD",-76.581,39.338
+"Little Rock-North Little Rock-Conway, AR",-92.397,34.757
+"Syracuse, NY",-76.034,43.154
+"Evansville, IN-KY",-87.579,37.971
+"Vidalia, GA",-82.412,32.142
+"Asheville, NC",-82.683,35.601
+"Charleston, WV",-81.492,38.272
+"Barnstable Town, MA",-70.291,41.724
+"Grand Forks, ND-MN",-96.844,47.836
+"Yuma, AZ",-113.906,32.769
+"Phoenix-Mesa-Scottsdale, AZ",-112.070,33.186
+"Toledo, OH",-83.782,41.498
+"Jasper, IN",-87.035,38.379
+"Louisville/Jefferson County, KY-IN",-85.671,38.337
+"Santa Rosa, CA",-122.887,38.528
+"Alexandria, LA",-92.542,31.331
+"Greenwood, MS",-90.106,33.498
+"Elizabeth City, NC",-76.312,36.296
+"Sulphur Springs, TX",-95.564,33.150
+"Boulder, CO",-105.358,40.092
+"Sikeston, MO",-89.569,37.053
+"Arcadia, FL",-81.809,27.186
+"Picayune, MS",-89.590,30.769
+"Cleveland, MS",-90.880,33.796
+"New Orleans-Metairie, LA",-89.958,29.925
+"Silver City, NM",-108.382,32.739
+"Springfield, IL",-89.697,39.830
+"Ponce, PR",-66.684,18.059
+"Kingsville, TX",-97.711,27.116
+"Plattsburgh, NY",-73.678,44.746
+"Marshall, MO",-93.202,39.137
+"The Villages, FL",-82.081,28.705
+"Butte-Silver Bow, MT",-112.657,45.902
+"Moberly, MO",-92.497,39.440
+"Shawnee, OK",-96.948,35.207
+"Opelousas, LA",-92.006,30.599
+"Campbellsville, KY",-85.328,37.366
+"Seattle-Tacoma-Bellevue, WA",-121.851,47.557
+"Rochester, NY",-77.508,42.966
+"Pensacola-Ferry Pass-Brent, FL",-87.156,30.688
+"East Stroudsburg, PA",-75.339,41.058
+"Vincennes, IN",-87.418,38.689
+"Shreveport-Bossier City, LA",-93.669,32.490
+"Madison, WI",-89.592,43.080
+"Clarksville, TN-KY",-87.563,36.747
+"El Paso, TX",-105.541,31.513
+"Paducah, KY-IL",-88.672,37.138
+"Waycross, GA",-82.366,31.138
+"Easton, MD",-76.097,38.771
+"Grants Pass, OR",-123.555,42.365
+"St. Cloud, MN",-94.472,45.586
+"San Angelo, TX",-100.673,31.364
+"Safford, AZ",-109.887,32.933
+"Fresno, CA",-119.649,36.758
+"Kill Devil Hills, NC",-76.002,35.798
+"Kirksville, MO",-92.573,40.289
+"Red Bluff, CA",-122.234,40.126
+"Bend-Redmond, OR",-121.228,43.915
+"Jacksonville, TX",-95.165,31.837
+"Kapaa, HI",-159.596,22.040
+"Vineland-Bridgeton, NJ",-75.111,39.374
+"Lake Havasu City-Kingman, AZ",-113.758,35.704
+"Prescott, AZ",-112.554,34.600
+"Houma-Thibodaux, LA",-90.666,29.484
+"Aberdeen, WA",-123.774,47.150
+"Mount Sterling, KY",-83.749,38.052
+"Monroe, MI",-83.537,41.929
+"Ocala, FL",-82.057,29.210
+"Sheridan, WY",-106.879,44.790
+"Tyler, TX",-95.269,32.375
+"Price, UT",-110.589,39.648
+"State College, PA",-77.820,40.919
+"Peru, IN",-86.045,40.769
+"Pullman, WA",-117.523,46.901
+"Missoula, MT",-113.924,47.037
+"Escanaba, MI",-86.924,45.919
+"Dyersburg, TN",-89.414,36.059
+"Brownsville-Harlingen, TX",-97.518,26.133
+"Marinette, WI-MI",-87.831,45.467
+"Brunswick, GA",-81.637,31.312
+"Beaumont-Port Arthur, TX",-94.072,30.304
+"Alpena, MI",-83.626,45.035
+"St. Joseph, MO-KS",-94.784,39.834
+"Oklahoma City, OK",-97.504,35.430
+"Marquette, MI",-87.642,46.431
+"Hartford-West Hartford-East Hartford, CT",-72.577,41.735
+"Albany, GA",-84.174,31.589
+"New York-Newark-Jersey City, NY-NJ-PA",-74.087,40.921
+"Knoxville, TN",-84.137,36.045
+"Bismarck, ND",-100.991,46.727
+"Las Vegas-Henderson-Paradise, NV",-115.014,36.215
+"La Crosse-Onalaska, WI-MN",-91.320,43.779
+"Cumberland, MD-WV",-78.804,39.532
+"Batesville, AR",-91.570,35.742
+"Klamath Falls, OR",-121.650,42.686
+"Richmond, VA",-77.474,37.462
+"Nashville-Davidson--Murfreesboro--Franklin, TN",-86.724,36.089
+"Corsicana, TX",-96.472,32.047
+"Eufaula, AL-GA",-85.337,31.869
+"Crossville, TN",-84.998,35.950
+"Fort Collins, CO",-105.461,40.666
+"Newport, TN",-83.121,35.925
+"Madera, CA",-119.763,37.218
+"Duluth, MN-WI",-92.409,47.333
+"Wilmington, NC",-77.901,34.467
+"Greenville, NC",-77.374,35.593
+"Lakeland-Winter Haven, FL",-81.698,27.949
+"Binghamton, NY",-76.025,42.165
+"Savannah, GA",-81.302,32.131
+"Deming, NM",-107.750,32.182
+"Jacksonville, NC",-77.432,34.732
+"Cleveland, TN",-84.667,35.135
+"Elkins, WV",-79.876,38.775
+"Truckee-Grass Valley, CA",-120.768,39.301
+"Rocky Mount, NC",-77.798,35.941
+"Elizabethtown-Fort Knox, KY",-85.974,37.738
+"Provo-Orem, UT",-112.353,39.865
+"Washington, IN",-87.072,38.702
+"Lewisburg, TN",-86.765,35.469
+"Chambersburg-Waynesboro, PA",-77.721,39.927
+"Marietta, OH",-81.495,39.455
+"Kokomo, IN",-86.117,40.484
+"Borger, TX",-101.355,35.840
+"Del Rio, TX",-101.152,29.893
+"Morgan City, LA",-91.443,29.705
+"Hilo, HI",-155.518,19.599
+"Mankato-North Mankato, MN",-94.136,44.154
+"Clearlake, CA",-122.753,39.100
+"Bremerton-Silverdale, WA",-122.672,47.613
+"El Dorado, AR",-92.597,33.171
+"Connersville, IN",-85.179,39.640
+"Kennett, MO",-90.091,36.272
+"Laredo, TX",-99.332,27.761
+"Lancaster, PA",-76.248,40.042
+"Brevard, NC",-82.798,35.202
+"Bardstown, KY",-85.466,37.805
+"Olympia-Tumwater, WA",-122.833,46.926
+"Plainview, TX",-101.827,34.071
+"Augusta-Richmond County, GA-SC",-81.983,33.461
+"Cleveland-Elyria, OH",-81.684,41.375
+"Chattanooga, TN-GA",-85.359,35.052
+"Crestview-Fort Walton Beach-Destin, FL",-86.366,30.666
+"College Station-Bryan, TX",-96.489,30.757
+"Astoria, OR",-123.656,45.995
+"Boise City, ID",-116.143,43.016
+"San Antonio-New Braunfels, TX",-98.602,29.429
+"Orlando-Kissimmee-Sanford, FL",-81.363,28.434
+"Tuscaloosa, AL",-87.722,33.168
+"Omaha-Council Bluffs, NE-IA",-95.999,41.290
+"Columbus, GA-AL",-84.909,32.441
+"Miami-Fort Lauderdale-West Palm Beach, FL",-80.506,26.157
+"Dallas-Fort Worth-Arlington, TX",-97.025,32.818
+"Greenville, MS",-90.947,33.284
+"Twin Falls, ID",-114.571,42.436
+"Santa Maria-Santa Barbara, CA",-120.016,34.673
+"Shelbyville, TN",-86.459,35.514
+"Davenport-Moline-Rock Island, IA-IL",-90.466,41.397
+"Urban Honolulu, HI",-158.105,21.501
+"Glenwood Springs, CO",-107.660,39.505
+"Lynchburg, VA",-79.220,37.365
+"Indiana, PA",-79.088,40.652
+"Marshall, TX",-94.371,32.548
+"Columbia, MO",-92.310,38.991
+"Breckenridge, CO",-106.116,39.634
+"Cookeville, TN",-85.466,36.278
+"Worcester, MA-CT",-71.927,42.223
+"Macon-Bibb County, GA",-83.715,32.858
+"Fayetteville, NC",-78.980,35.037
+"Charleston-North Charleston, SC",-80.044,33.042
+"Pierre, SD",-100.370,44.503
+"Mountain Home, ID",-115.469,43.354
+"Cornelia, GA",-83.531,34.631
+"Norwich-New London, CT",-72.101,41.487
+"Longview, TX",-94.829,32.372
+"Salem, OR",-122.903,44.903
+"Cañon City, CO",-105.440,38.473
+"Taos, NM",-105.631,36.578
+"Milledgeville, GA",-83.090,33.198
+"Utica-Rome, NY",-75.181,43.337
+"El Campo, TX",-96.222,29.278
+"Bozeman, MT",-111.170,45.541
+"Florence, SC",-79.808,34.152
+"Salinas, CA",-121.239,36.217
+"North Wilkesboro, NC",-81.163,36.206
+"Jefferson City, MO",-92.092,38.640
+"Aguadilla-Isabela, PR",-66.953,18.335
+"Albany, OR",-122.535,44.489
+"Ukiah, CA",-123.391,39.440
+"Austin-Round Rock, TX",-97.654,30.263
+"Talladega-Sylacauga, AL",-86.204,33.173
+"Johnson City, TN",-82.334,36.254
+"Parkersburg-Vienna, WV",-81.463,39.139
+"Green Bay, WI",-88.077,44.773
+"Providence-Warwick, RI-MA",-71.400,41.718
+"Mount Pleasant, TX",-94.966,33.217
+"Winchester, VA-WV",-78.474,39.272
+"Grand Rapids, MN",-93.632,47.510
+"Riverside-San Bernardino-Ontario, CA",-116.130,34.552
+"Camden, AR",-92.707,33.577
+"Jackson, MS",-90.220,32.317
+"New Haven-Milford, CT",-72.932,41.410
+"Walla Walla, WA",-118.249,46.257
+"Eugene, OR",-122.847,43.939
+"Harrisonburg, VA",-78.876,38.511
+"Kalispell, MT",-114.050,48.295
+"Ellensburg, WA",-120.680,47.124
+"La Grande, OR",-118.009,45.310
+"Blytheville, AR",-90.054,35.764
+"Logan, WV",-81.935,37.832
+"Athens, TX",-95.854,32.212
+"St. Marys, GA",-81.670,30.931
+"Warner Robins, GA",-83.636,32.408
+"Spokane-Spokane Valley, WA",-117.572,48.194
+"Oak Harbor, WA",-122.548,48.163
+"Roseburg, OR",-123.166,43.280
+"Salt Lake City, UT",-113.011,40.471
+"Elko, NV",-115.533,40.922
+"Rapid City, SD",-102.900,44.191
+"York-Hanover, PA",-76.727,39.920
+"Helena-West Helena, AR",-90.848,34.428
+"Buffalo-Cheektowaga-Niagara Falls, NY",-78.737,42.911
+"Greeneville, TN",-82.846,36.175
+"Sumter, SC",-80.382,33.916
+"London, KY",-84.047,36.921
+"Guayama, PR",-66.084,18.013
+"Cape Coral-Fort Myers, FL",-81.834,26.578
+"Steamboat Springs, CO",-106.991,40.485
+"Jesup, GA",-81.917,31.551
+"Summit Park, UT",-110.956,40.868
+"Dunn, NC",-78.869,35.369
+"Somerset, PA",-79.028,39.972
+"Payson, AZ",-110.812,33.800
+"Valdosta, GA",-83.242,30.829
+"San Juan-Carolina-Caguas, PR",-66.112,18.276
+"Findlay, OH",-83.667,41.002
+"Amarillo, TX",-101.910,35.249
+"Lima, OH",-84.106,40.772
+"Laurel, MS",-89.144,31.818
+"Alamogordo, NM",-105.741,32.613
+"Lake Charles, LA",-93.260,30.017
+"Hammond, LA",-90.406,30.627
+"Bowling Green, KY",-86.407,37.039
+"Bonham, TX",-96.107,33.594
+"Rome, GA",-85.214,34.263
+"Riverton, WY",-108.630,43.041
+"Lafayette-West Lafayette, IN",-86.930,40.514
+"Huntington, IN",-85.488,40.829
+"Columbus, MS",-88.443,33.473
+"DuBois, PA",-78.474,41.000
+"Mobile, AL",-88.206,30.787
+"Corvallis, OR",-123.429,44.492
+"Tulsa, OK",-96.166,36.250
+"Oneonta, NY",-75.033,42.634
+"Rockingham, NC",-79.748,35.006
+"Ogden-Clearfield, UT",-112.816,41.433
+"Hailey, ID",-114.199,43.324
+"Milwaukee-Waukesha-West Allis, WI",-88.172,43.177
+"Lewiston, ID-WA",-116.944,46.269
+"Redding, CA",-122.040,40.764
+"Huntingdon, PA",-77.981,40.417
+"Birmingham-Hoover, AL",-86.814,33.464
+"Lock Haven, PA",-77.638,41.234
+"Montgomery, AL",-86.403,32.361
+"Greenville-Anderson-Mauldin, SC",-82.414,34.685
+"Athens-Clarke County, GA",-83.214,33.949
+"Hilton Head Island-Bluffton-Beaufort, SC",-80.877,32.410
+"Owensboro, KY",-87.069,37.700
+"Athens, TN",-84.617,35.425
+"Beckley, WV",-81.161,37.906
+"Fairbanks, AK",-146.565,64.808
+"Forest City, NC",-81.920,35.403
+"Paris, TN",-88.301,36.332
+"Eureka-Arcata-Fortuna, CA",-123.876,40.699
+"Allentown-Bethlehem-Easton, PA-NJ",-75.404,40.789
+"Iron Mountain, MI-WI",-88.076,45.947
+"Bellingham, WA",-121.720,48.826
+"Palatka, FL",-81.744,29.609
+"Bogalusa, LA",-90.040,30.853
+"Billings, MT",-108.718,45.781
+"Bridgeport-Stamford-Norwalk, CT",-73.389,41.271
+"The Dalles, OR",-121.168,45.160
+"Lake City, FL",-82.622,30.224
+"Natchitoches, LA",-93.096,31.724
+"Odessa, TX",-102.543,31.869
+"Bay City, TX",-96.011,28.821
+"Merced, CA",-120.718,37.192
+"Pocatello, ID",-112.225,42.668
+"Martin, TN",-88.718,36.298
+"Houghton, MI",-88.596,47.163
+"Palm Bay-Melbourne-Titusville, FL",-80.732,28.294
+"Grand Junction, CO",-108.466,39.018
+"Santa Cruz-Watsonville, CA",-122.002,37.056
+"DeRidder, LA",-93.343,30.648
+"Durham-Chapel Hill, NC",-79.100,35.991
+"Monroe, LA",-92.285,32.687
+"St. Louis, MO-IL",-90.350,38.735
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",-75.302,39.906
+"Terre Haute, IN",-87.344,39.392
+"Eagle Pass, TX",-100.314,28.742
+"Newberry, SC",-81.600,34.290
+"Vallejo-Fairfield, CA",-121.933,38.270
+"Clarksburg, WV",-80.430,39.289
+"Victoria, TX",-97.195,28.728
+"Orangeburg, SC",-80.800,33.439
+"Erie, PA",-80.033,41.993
+"Madisonville, KY",-87.541,37.309
+"Dothan, AL",-85.462,31.253
+"Dayton, TN",-84.924,35.609
+"Chico, CA",-121.601,39.667
+"Palestine, TX",-95.653,31.813
+"Ketchikan, AK",-130.929,55.585
+"Cincinnati, OH-KY-IN",-84.427,39.072
+"Salisbury, MD-DE",-75.469,38.416
+"Durango, CO",-107.843,37.287
+"Sandusky, OH",-82.619,41.363
+"Seneca, SC",-83.066,34.753
+"Searcy, AR",-91.746,35.256
+"Modesto, CA",-120.998,37.559
+"Jefferson, GA",-83.566,34.134
+"Virginia Beach-Norfolk-Newport News, VA-NC",-76.454,36.833
+"Central City, KY",-87.142,37.216
+"Staunton-Waynesboro, VA",-79.129,38.163
+"Roanoke Rapids, NC",-77.542,36.326
+"Greenwood, SC",-82.301,34.190
+"Napa, CA",-122.331,38.506
+"Baton Rouge, LA",-91.133,30.571
+"Troy, AL",-85.941,31.803
+"Sunbury, PA",-76.709,40.852
+"Huntsville, TX",-95.366,30.904
+"Cullman, AL",-86.868,34.132
+"Plymouth, IN",-86.262,41.325
+"Cedartown, GA",-85.188,34.002
+"Warrensburg, MO",-93.806,38.744
+"Sweetwater, TX",-100.406,32.304
+"Killeen-Temple, TX",-97.788,31.208
+"Canton, IL",-90.207,40.473
+"Auburn-Opelika, AL",-85.355,32.601
+"Thomaston, GA",-84.299,32.881
+"Hastings, NE",-98.501,40.524
+"Valley, AL",-85.392,32.914
+"Willmar, MN",-95.005,45.152
+"Florence-Muscle Shoals, AL",-87.724,34.808
+"Champaign-Urbana, IL",-88.295,40.227
+"Fairfield, IA",-91.949,41.032
+"Medford, OR",-122.729,42.432
+"Gainesville, FL",-82.477,29.688
+"Denver-Aurora-Lakewood, CO",-104.894,39.434
+"Ottawa-Peru, IL",-89.173,41.357
+"Joplin, MO",-94.340,37.057
+"Calhoun, GA",-84.876,34.503
+"McPherson, KS",-97.648,38.392
+"Greensburg, IN",-85.501,39.307
+"Mason City, IA",-93.261,43.204
+"Springfield, MO",-93.177,37.362
+"Whitewater-Elkhorn, WI",-88.542,42.668
+"Auburn, NY",-76.555,42.917
+"Mansfield, OH",-82.536,40.775
+"Wooster, OH",-81.888,40.829
+"Richmond-Berea, KY",-84.294,37.572
+"Huntsville, AL",-86.735,34.783
+"Port Clinton, OH",-83.141,41.538
+"New Castle, PA",-80.334,40.991
+"Keene, NH",-72.251,42.919
+"Coos Bay, OR",-124.059,43.174
+"Gainesville, GA",-83.820,34.317
+"Ruston, LA",-92.665,32.602
+"Brookhaven, MS",-90.454,31.532
+"Minot, ND",-101.208,48.319
+"Coco, PR",-66.255,18.007
+"Pueblo, CO",-104.513,38.173
+"McMinnville, TN",-85.779,35.679
+"Youngstown-Warren-Boardman, OH-PA",-80.568,41.238
+"Montrose, CO",-108.269,38.402
+"Ottawa, KS",-95.286,38.565
+"Cambridge, OH",-81.494,40.052
+"Van Wert, OH",-84.586,40.855
+"Ardmore, OK",-97.286,34.251
+"Lafayette, LA",-92.060,30.025
+"Dayton, OH",-84.142,39.829
+"Adjuntas, PR",-66.754,18.180
+"Spirit Lake, IA",-95.151,43.378
+"Malvern, AR",-92.946,34.318
+"Mitchell, SD",-97.967,43.675
+"Sierra Vista-Douglas, AZ",-109.751,31.880
+"Greenville, OH",-84.619,40.133
+"Bloomington, IN",-86.676,39.235
+"Columbus, NE",-97.521,41.571
+"Janesville-Beloit, WI",-89.072,42.671
+"Burley, ID",-113.609,42.415
+"Owosso, MI",-84.147,42.954
+"Reading, PA",-75.926,40.416
+"Stevens Point, WI",-89.501,44.476
+"Pottsville, PA",-76.216,40.706
+"Coamo, PR",-66.360,18.097
+"Cambridge, MD",-76.013,38.483
+"Springfield, OH",-83.784,39.917
+"Tucson, AZ",-111.790,32.097
+"Grants, NM",-108.000,34.912
+"Boone, NC",-81.696,36.231
+"Midland, TX",-101.991,32.090
+"Atchison, KS",-95.313,39.532
+"Andrews, TX",-102.638,32.305
+"St. Marys, PA",-78.649,41.425
+"Danville, KY",-84.733,37.515
+"Big Spring, TX",-101.478,32.089
+"Kahului-Wailuku-Lahaina, HI",-156.569,20.863
+"Durant, OK",-96.260,33.962
+"Natchez, MS-LA",-91.527,31.460
+"Hood River, OR",-121.651,45.519
+"Tupelo, MS",-88.685,34.265
+"Wilson, NC",-77.919,35.705
+"Pampa, TX",-100.813,35.401
+"Macomb, IL",-90.678,40.456
+"Newport, OR",-123.868,44.642
+"Portland-Vancouver-Hillsboro, OR-WA",-122.478,45.598
+"Kingston, NY",-74.259,41.888
+"Kennewick-Richland, WA",-119.254,46.364
+"Carbondale-Marion, IL",-89.190,37.762
+"Lawrence, KS",-95.293,38.885
+"Mayfield, KY",-88.651,36.723
+"Raymondville, TX",-97.661,26.470
+"Madison, IN",-85.439,38.786
+"North Platte, NE",-100.776,41.234
+"Eau Claire, WI",-91.282,44.939
+"Harrison, AR",-93.164,36.085
+"New Philadelphia-Dover, OH",-81.474,40.441
+"Concord, NH",-71.680,43.297
+"Gillette, WY",-105.548,44.248
+"Statesboro, GA",-81.743,32.397
+"South Bend-Mishawaka, IN-MI",-86.134,41.774
+"Bakersfield, CA",-118.730,35.343
+"Rolla, MO",-91.792,37.877
+"Ionia, MI",-85.075,42.945
+"Paragould, AR",-90.559,36.118
+"Warsaw, IN",-85.861,41.244
+"Defiance, OH",-84.490,41.324
+"Lewistown, PA",-77.617,40.610
+"Hereford, TX",-102.605,34.966
+"Burlington, IA-IL",-91.059,40.873
+"Somerset, KY",-84.577,37.104
+"Wausau, WI",-89.759,44.898
+"Fernley, NV",-119.189,39.020
+"Wahpeton, ND-MN",-96.784,46.296
+"Marion, OH",-83.161,40.587
+"Amsterdam, NY",-74.440,42.902
+"Abilene, TX",-99.718,32.450
+"Elk City, OK",-99.682,35.269
+"Bradford, PA",-78.569,41.808
+"Ruidoso, NM",-105.459,33.745
+"Faribault-Northfield, MN",-93.297,44.354
+"Muncie, IN",-85.397,40.228
+"Racine, WI",-88.061,42.747
+"Fort Leonard Wood, MO",-92.208,37.825
+"North Vernon, IN",-85.628,38.997
+"Grenada, MS",-89.802,33.770
+"Hobbs, NM",-103.412,32.792
+"Coffeyville, KS",-95.743,37.193
+"Lincoln, IL",-89.368,40.125
+"Midland, MI",-84.388,43.647
+"Malone, NY",-74.304,44.593
+"Santa Fe, NM",-105.977,35.507
+"Woodward, OK",-99.265,36.423
+"Duncan, OK",-97.851,34.486
+"Moscow, ID",-116.712,46.816
+"Fitzgerald, GA",-83.220,31.760
+"Fremont, OH",-83.146,41.356
+"Saginaw, MI",-84.053,43.335
+"Fremont, NE",-96.654,41.578
+"Maryville, MO",-94.883,40.361
+"Bay City, MI",-83.992,43.708
+"Seneca Falls, NY",-76.824,42.781
+"Snyder, TX",-100.916,32.746
+"Gaffney, SC",-81.620,35.048
+"Marion, NC",-82.049,35.682
+"Uvalde, TX",-99.762,29.357
+"Batavia, NY",-78.194,43.001
+"Sidney, OH",-84.205,40.332
+"Coshocton, OH",-81.920,40.302
+"Celina, OH",-84.629,40.540
+"Adrian, MI",-84.066,41.895
+"Fort Smith, AR-OK",-94.566,35.190
+"Corning, NY",-77.384,42.268
+"Angola, IN",-85.001,41.644
+"Akron, OH",-81.350,41.149
+"Evanston, WY",-110.548,41.288
+"Lexington-Fayette, KY",-84.433,38.091
+"Logan, UT-ID",-111.769,41.890
+"Bloomington, IL",-88.862,40.411
+"Albany-Schenectady-Troy, NY",-73.942,42.789
+"Emporia, KS",-96.153,38.456
+"Carroll, IA",-94.861,42.036
+"Platteville, WI",-90.706,42.867
+"Tallahassee, FL",-84.286,30.405
+"Meridian, MS",-88.664,32.413
+"Lumberton, NC",-79.104,34.640
+"Hermiston-Pendleton, OR",-119.065,45.525
+"Portland-South Portland, ME",-70.469,43.696
+"Hays, KS",-99.317,38.915
+"Springfield, MA",-72.647,42.230
+"Burlington, NC",-79.399,36.044
+"Boston-Cambridge-Newton, MA-NH",-71.100,42.558
+"Tampa-St. Petersburg-Clearwater, FL",-82.406,28.154
+"Fallon, NV",-118.336,39.581
+"Prineville, OR",-120.357,44.142
+"Sioux City, IA-NE-SD",-96.372,42.579
+"Harrisburg-Carlisle, PA",-77.101,40.327
+"Gloversville, NY",-74.422,43.114
+"Muscatine, IA",-91.113,41.484
+"Bainbridge, GA",-84.579,30.878
+"Dover, DE",-75.568,39.086
+"Point Pleasant, WV-OH",-82.176,38.798
+"Tiffin, OH",-83.128,41.124
+"Muskegon, MI",-86.152,43.291
+"Mount Vernon-Anacortes, WA",-121.730,48.479
+"Decatur, IN",-84.937,40.746
+"Oil City, PA",-79.758,41.401
+"Mount Airy, NC",-80.688,36.415
+"McAlester, OK",-95.748,34.924
+"Beaver Dam, WI",-88.708,43.416
+"Ozark, AL",-85.611,31.432
+"Danville, IL",-87.733,40.183
+"Douglas, GA",-82.849,31.549
+"Boone, IA",-93.932,42.037
+"Murray, KY",-88.272,36.621
+"Lubbock, TX",-101.645,33.469
+"Martinsville, VA",-79.874,36.683
+"Helena, MT",-112.296,46.813
+"Greeley, CO",-104.392,40.555
+"Cheyenne, WY",-104.689,41.307
+"Tahlequah, OK",-95.000,35.907
+"Marshalltown, IA",-92.999,42.036
+"Ottumwa, IA",-92.410,40.879
+"Brownwood, TX",-99.000,31.774
+"Shawano, WI",-88.750,44.851
+"Dalton, GA",-84.848,34.796
+"Torrington, CT",-73.245,41.792
+"Goldsboro, NC",-78.004,35.364
+"Warren, PA",-79.274,41.814
+"Gettysburg, PA",-77.218,39.871
+"Elmira, NY",-76.760,42.141
+"Salem, OH",-80.777,40.768
+"Hudson, NY",-73.632,42.250
+"Wisconsin Rapids-Marshfield, WI",-90.042,44.455
+"Garden City, KS",-100.970,38.027
+"Fairmont, MN",-94.551,43.674
+"Laramie, WY",-105.724,41.655
+"Spencer, IA",-95.151,43.083
+"Bennington, VT",-73.093,43.035
+"Kendallville, IN",-85.418,41.399
+"Alexander City, AL",-85.797,32.862
+"Mexico, MO",-91.842,39.216
+"Watertown-Fort Atkinson, WI",-88.776,43.021
+"Greenfield Town, MA",-72.592,42.583
+"Traverse City, MI",-85.552,44.725
+"Columbia, SC",-81.042,34.092
+"Reno, NV",-119.659,40.619
+"Manchester-Nashua, NH",-71.716,42.915
+"Centralia, IL",-88.919,38.650
+"Clarksdale, MS",-90.603,34.229
+"Salina, KS",-97.650,38.959
+"Thomasville, GA",-83.919,30.864
+"Othello, WA",-118.561,46.983
+"Summerville, GA",-85.345,34.475
+"Coldwater, MI",-85.059,41.916
+"Holland, MI",-85.888,42.591
+"Barre, VT",-72.615,44.273
+"Vernon, TX",-99.241,34.081
+"Norwalk, OH",-82.598,41.146
+"Owatonna, MN",-93.226,44.022
+"Chillicothe, OH",-83.057,39.338
+"West Plains, MO",-91.887,36.774
+"Oshkosh-Neenah, WI",-88.645,44.069
+"Mount Vernon, IL",-88.924,38.301
+"Roswell, NM",-104.467,33.363
+"Nogales, AZ",-110.847,31.526
+"West Point, MS",-88.782,33.656
+"Guymon, OK",-101.490,36.748
+"Fredericksburg, TX",-98.947,30.318
+"Williston, ND",-103.480,48.344
+"Fort Polk South, LA",-93.184,31.108
+"Wenatchee, WA",-120.266,47.818
+"Williamsport, PA",-77.065,41.343
+"Wauchula, FL",-81.810,27.493
+"Lebanon, PA",-76.458,40.367
+"Indianola, MS",-90.589,33.602
+"Mount Vernon, OH",-82.422,40.399
+"Sedalia, MO",-93.285,38.728
+"Dumas, TX",-101.893,35.838
+"Lewisburg, PA",-77.062,40.963
+"Meadville, PA",-80.106,41.685
+"Washington Court House, OH",-83.456,39.560
+"Fort Madison-Keokuk, IA-IL-MO",-91.413,40.475
+"Wabash, IN",-85.794,40.846
+"Fort Wayne, IN",-85.217,41.005
+"Lewiston-Auburn, ME",-70.206,44.166
+"Hutchinson, MN",-94.272,44.824
+"Claremont-Lebanon, NH-VT",-72.161,43.784
+"San Diego-Carlsbad, CA",-116.735,33.034
+"Clewiston, FL",-81.166,26.553
+"Sherman-Denison, TX",-96.678,33.627
+"Fort Dodge, IA",-94.182,42.428
+"Jacksonville, FL",-81.792,30.237
+"Kingsport-Bristol-Bristol, TN-VA",-82.443,36.608
+"Ocean City, NJ",-74.800,39.149
+"Henderson, NC",-78.408,36.365
+"Hutchinson, KS",-98.086,37.953
+"Levelland, TX",-102.343,33.608
+"Enterprise, AL",-85.988,31.403
+"Sonora, CA",-119.955,38.028
+"Cape Girardeau, MO-IL",-89.770,37.324
+"Danville, VA",-79.398,36.811
+"Stillwater, OK",-96.976,36.077
+"Bedford, IN",-86.483,38.841
+"Manitowoc, WI",-87.810,44.120
+"Alice, TX",-98.090,27.731
+"Zapata, TX",-99.169,27.001
+"Laconia, NH",-71.423,43.518
+"Punta Gorda, FL",-81.912,26.905
+"Enid, OK",-97.783,36.379
+"Lincoln, NE",-96.871,40.820
+"Michigan City-La Porte, IN",-86.740,41.546
+"Indianapolis-Carmel-Anderson, IN",-86.206,39.747
+"Sault Ste. Marie, MI",-84.578,46.305
+"Miami, OK",-94.810,36.836
+"Santa Isabel, PR",-66.389,17.994
+"Oxford, MS",-89.485,34.357
+"Decatur, IL",-88.962,39.860
+"Sturgis, MI",-85.528,41.914
+"Des Moines-West Des Moines, IA",-93.940,41.548
+"Waco, TX",-97.090,31.426
+"Mayagüez, PR",-67.302,18.171
+"Scottsbluff, NE",-103.738,42.159
+"Detroit-Warren-Dearborn, MI",-83.233,42.719
+"Charlottesville, VA",-78.576,37.852
+"Portsmouth, OH",-82.993,38.804
+"Ogdensburg-Massena, NY",-75.069,44.496
+"Greensboro-High Point, NC",-79.792,36.026
+"Albert Lea, MN",-93.349,43.674
+"Charleston-Mattoon, IL",-88.229,39.420
+"Selinsgrove, PA",-77.070,40.770
+"Craig, CO",-108.207,40.618
+"Jayuya, PR",-66.588,18.211
+"Spearfish, SD",-103.792,44.359
+"Jackson, MI",-84.423,42.248
+"Zanesville, OH",-81.944,39.965
+"Dickinson, ND",-102.655,46.811
+"Pahrump, NV",-116.472,38.042
+"Peoria, IL",-89.516,40.789
+"Lawton, OK",-98.435,34.524
+"Dubuque, IA",-90.882,42.469
+"Waterloo-Cedar Falls, IA",-92.471,42.536
+"Kearney, NE",-99.031,40.735
+"Logansport, IN",-86.346,40.762
+"Cullowhee, NC",-83.141,35.288
+"California-Lexington Park, MD",-76.606,38.302
+"Hagerstown-Martinsburg, MD-WV",-77.901,39.547
+"Ithaca, NY",-76.474,42.452
+"Crawfordsville, IN",-86.893,40.040
+"Jennings, LA",-92.814,30.268
+"Anchorage, AK",-149.542,62.243
+"Blacksburg-Christiansburg-Radford, VA",-80.533,37.121
+"Charlotte-Concord-Gastonia, NC-SC",-80.867,35.189
+"Lufkin, TX",-94.612,31.255
+"Hinesville, GA",-81.602,31.796
+"Morehead City, NC",-76.659,34.836
+"Pinehurst-Southern Pines, NC",-79.481,35.311
+"Port Angeles, WA",-123.928,48.049
+"Selma, AL",-87.106,32.326
+"Fargo, ND-MN",-96.965,46.918
+"Brownsville, TN",-89.284,35.583
+"Stephenville, TX",-98.218,32.236
+"Bucyrus, OH",-82.920,40.851
+"Lawrenceburg, TN",-87.396,35.217
+"Dixon, IL",-89.300,41.746
+"Norfolk, NE",-97.490,42.044
+"Aberdeen, SD",-98.696,45.522
+"Iowa City, IA",-91.650,41.511
+"Alma, MI",-84.605,43.293
+"Pittsburg, KS",-94.852,37.507
+"Athens, OH",-82.045,39.334
+"Grand Island, NE",-98.280,41.033
+"Casper, WY",-106.799,42.962
+"Marion, IN",-85.655,40.516
+"Watertown, SD",-97.189,44.978
+"Russellville, AR",-93.235,35.211
+"Elkhart-Goshen, IN",-85.859,41.597
+"Ashland, OH",-82.271,40.846
+"Mineral Wells, TX",-98.313,32.753
+"Auburn, IN",-84.999,41.398
+"Colorado Springs, CO",-104.658,38.843
+"Mount Pleasant, MI",-84.847,43.641
+"Menomonie, WI",-91.896,44.947
+"Urbana, OH",-83.770,40.138
+"New Castle, IN",-85.396,39.931
+"Cedar Rapids, IA",-91.631,42.091
+"Parsons, KS",-95.298,37.191
+"Bangor, ME",-68.649,45.401
+"Toccoa, GA",-83.293,34.554
+"Ames, IA",-93.465,42.036
+"Ashtabula, OH",-80.748,41.708
+"Jackson, OH",-82.618,39.020
+"Canton-Massillon, OH",-81.253,40.719
+"Gallup, NM",-108.262,35.581
+"Sterling, CO",-103.110,40.725
+"Merrill, WI",-89.735,45.337
+"Hannibal, MO",-91.570,39.661
+"Bartlesville, OK",-95.904,36.715
+"Rock Springs, WY",-108.880,41.660
+"Marshall, MN",-95.839,44.414
+"Gainesville, TX",-97.213,33.639
+"Cadillac, MI",-85.337,44.338
+"Sandpoint, ID",-116.601,48.300
+"St. George, UT",-113.505,37.280
+"Fergus Falls, MN",-95.708,46.409
+"Jamestown, ND",-98.959,46.979
+"Liberal, KS",-100.851,37.193
+"Cedar City, UT",-113.290,37.859
+"Coeur d'Alene, ID",-116.702,47.674
+"Lebanon, MO",-92.590,37.658
+"Jonesboro, AR",-90.648,35.698
+"McComb, MS",-90.660,31.175
+"Moultrie, GA",-83.769,31.188
+"Weatherford, OK",-99.001,35.639
+"Appleton, WI",-88.371,44.289
+"Mountain Home, AR",-92.337,36.287
+"Effingham, IL",-88.590,39.060
+"Columbus, IN",-85.898,39.206
+"Hot Springs, AR",-93.150,34.577
+"Red Wing, MN",-92.723,44.410
+"Fond du Lac, WI",-88.488,43.754
+"Fort Morgan, CO",-103.810,40.263
+"Maysville, KY",-83.824,38.595
+"Rockford, IL",-89.042,42.332
+"Flint, MI",-83.707,43.022
+"Altoona, PA",-78.349,40.481
+"San Germán, PR",-67.062,18.057
+"San Jose-Sunnyvale-Santa Clara, CA",-121.376,36.909
+"Sebring, FL",-81.341,27.343
+"Española, NM",-106.693,36.510
+"Georgetown, SC",-79.332,33.434
+"Grand Rapids-Wyoming, MI",-85.488,42.999
+"Branson, MO",-93.224,36.695
+"Susanville, CA",-120.594,40.674
+"Shelby, NC",-81.556,35.334
+"Las Cruces, NM",-106.833,32.353
+"Rochelle, IL",-89.321,42.043
+"Sanford, NC",-79.171,35.475
+"Homosassa Springs, FL",-82.479,28.849
+"Jackson, WY-ID",-110.649,43.918
+"Albuquerque, NM",-106.472,35.122
+"Augusta-Waterville, ME",-69.767,44.409
+"Portales, NM",-103.480,34.021
+"Battle Creek, MI",-85.006,42.247
+"Sayre, PA",-76.515,41.789
+"Winona, MN",-91.779,43.987
+"Junction City, KS",-96.753,39.002
+"Great Bend, KS",-98.756,38.479
+"Magnolia, AR",-93.227,33.214
+"Carson City, NV",-119.747,39.151
+"Freeport, IL",-89.662,42.352
+"Forrest City, AR",-90.748,35.022
+"Muskogee, OK",-95.380,35.616
+"Houston-The Woodlands-Sugar Land, TX",-95.401,29.787
+"Las Vegas, NM",-104.816,35.480
+"Big Rapids, MI",-85.325,43.641
+"Wilmington, OH",-83.808,39.415
+"Newton, IA",-93.054,41.686
+"Brookings, SD",-96.790,44.370
+"New Bern, NC",-77.091,35.098
+"Panama City, FL",-85.466,30.144
+"Big Stone Gap, VA",-82.500,37.042
+"Ponca City, OK",-97.144,36.818
+"Ludington, MI",-86.250,43.995
+"Dodge City, KS",-99.888,37.692
+"Jamestown-Dunkirk-Fredonia, NY",-79.366,42.228
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA",-120.405,35.387
+"Watertown-Fort Drum, NY",-75.921,44.049
+"Pella, IA",-93.099,41.334
+"Oxford, NC",-78.653,36.304
+"Kankakee, IL",-87.862,41.138
+"Vermillion, SD",-96.976,42.915
+"Lansing-East Lansing, MI",-84.607,42.713
+"Show Low, AZ",-110.321,35.400
+"Pittsburgh, PA",-79.831,40.439
+"Deltona-Daytona Beach-Ormond Beach, FL",-81.220,29.174
+"Manhattan, KS",-96.507,39.344
+"Paris, TX",-95.571,33.667
+"Fairmont, WV",-80.243,39.510
+"Naples-Immokalee-Marco Island, FL",-81.348,26.111
+"LaGrange, GA",-85.028,33.034
+"Austin, MN",-92.753,43.671
+"Port Lavaca, TX",-96.602,28.507
+"Winston-Salem, NC",-80.346,36.077
+"Texarkana, TX-AR",-94.214,33.474
+"Sacramento--Roseville--Arden-Arcade, CA",-120.998,38.780
+"Kansas City, MO-KS",-94.444,38.937
+"Bennettsville, SC",-79.679,34.602
+"Vicksburg, MS",-90.879,32.186
+"Vineyard Haven, MA",-70.650,41.396
+"Scottsboro, AL",-85.999,34.779
+"Nacogdoches, TX",-94.616,31.616
+"Olean, NY",-78.679,42.249
+"Stockton-Lodi, CA",-121.271,37.935
+"Decatur, AL",-87.103,34.491
+"Sevierville, TN",-83.524,35.785
+"Wichita, KS",-97.398,37.625
+"Yankton, SD",-97.395,43.009
+"Frankfort, IN",-86.475,40.302
+"Bellefontaine, OH",-83.766,40.388
+"Hanford-Corcoran, CA",-119.816,36.075
+"Pine Bluff, AR",-91.950,34.077
+"Morgantown, WV",-79.805,39.527
+"Anniston-Oxford-Jacksonville, AL",-85.826,33.771
+"Wapakoneta, OH",-84.222,40.561
+"Brookings, OR",-124.157,42.458
+"Trenton, NJ",-74.702,40.283
+"Raleigh, NC",-78.461,35.757
+"Moses Lake, WA",-119.452,47.206
+"Heber, UT",-111.168,40.331
+"Chicago-Naperville-Elgin, IL-IN-WI",-87.963,41.703
+"Arkadelphia, AR",-93.176,34.051
+"Topeka, KS",-95.803,39.044
+"Edwards, CO",-106.695,39.628
+"Columbus, OH",-82.837,39.968
+"Albertville, AL",-86.307,34.367
+"Jackson, TN",-88.853,35.610
+"Scranton--Wilkes-Barre--Hazleton, PA",-75.896,41.323
+"Visalia-Porterville, CA",-118.800,36.220
+"Bastrop, LA",-91.802,32.820
+"Vernal, UT",-109.519,40.125
+"Crescent City, CA",-123.897,41.743
+"Union City, TN-KY",-89.160,36.416
+"Longview, WA",-122.681,46.193
+"New Ulm, MN",-94.728,44.242
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",-77.474,38.833
+"Arecibo, PR",-66.757,18.413
+"Rochester, MN",-92.338,43.956
+"Hickory-Lenoir-Morganton, NC",-81.454,35.813
+"Oskaloosa, IA",-92.641,41.335
+"Johnstown, PA",-78.714,40.495
+"North Port-Sarasota-Bradenton, FL",-82.322,27.348
+"Sterling, IL",-89.914,41.756
+"Taylorville, IL",-89.277,39.546
+"Farmington, NM",-108.321,36.509
+"Albemarle, NC",-80.251,35.312
+"Pecos, TX",-103.693,31.323
+"Hope, AR",-93.504,33.703
+"Rio Grande City, TX",-98.739,26.562
+"Beeville, TX",-97.741,28.417
+"Shelton, WA",-123.193,47.348
+"Atlantic City-Hammonton, NJ",-74.661,39.478
+"Minneapolis-St. Paul-Bloomington, MN-WI",-93.346,45.065
+"Clinton, IA",-90.532,41.898
+"Memphis, TN-MS-AR",-89.815,35.008
+"Los Angeles-Long Beach-Anaheim, CA",-118.150,34.221
+"Brenham, TX",-96.403,30.215
+"Morristown, TN",-83.382,36.111
+"Corpus Christi, TX",-97.481,27.895
+"Glens Falls, NY",-73.649,43.444
+"Poplar Bluff, MO",-90.407,36.716
+"Americus, GA",-84.227,32.096
+"Great Falls, MT",-111.347,47.308
+"Yakima, WA",-120.738,46.457
+"Spartanburg, SC",-81.847,34.838
+"Middlesborough, KY",-83.674,36.731
+"Washington, NC",-76.860,35.494
+"Ada, OK",-96.684,34.728
+"Los Alamos, NM",-106.307,35.869
+"Atmore, AL",-87.162,31.126
+"Juneau, AK",-134.151,58.444
+"Weirton-Steubenville, WV-OH",-80.704,40.388
+"Richmond, IN",-85.010,39.864
+"Glasgow, KY",-85.822,36.975
+"Farmington, MO",-90.472,37.810
+"Tullahoma-Manchester, TN",-86.116,35.298
+"Altus, OK",-99.415,34.588
+"Laurinburg, NC",-79.480,34.841
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",-78.664,33.987
+"El Centro, CA",-115.365,33.040
+"Gadsden, AL",-86.035,34.045
+"Okeechobee, FL",-80.889,27.386
+"Dublin, GA",-82.851,32.529
+"Seymour, IN",-86.038,38.906
+"Gulfport-Biloxi-Pascagoula, MS",-89.018,30.499
+"Oxnard-Thousand Oaks-Ventura, CA",-119.084,34.457
+"Bluefield, WV-VA",-81.359,37.251
+"Frankfort, KY",-84.933,38.124
+"Rexburg, ID",-111.517,44.141
+"McAllen-Edinburg-Mission, TX",-98.181,26.397
+"Daphne-Fairhope-Foley, AL",-87.723,30.727
+"Kinston, NC",-77.641,35.239
+"Port St. Lucie, FL",-80.451,27.220
+"Carlsbad-Artesia, NM",-104.304,32.471
+"Jacksonville, IL",-90.285,39.694
+"Bemidji, MN",-94.938,47.974
+"Alexandria, MN",-95.454,45.934
+"Galesburg, IL",-90.213,40.932
+"Sebastian-Vero Beach, FL",-80.606,27.694
+"Kerrville, TX",-99.350,30.061
+"Pontiac, IL",-88.558,40.892
+"Lamesa, TX",-101.948,32.743
+"Cortland, NY",-76.070,42.595
+"Lexington, NE",-99.823,40.759
+"Bloomsburg-Berwick, PA",-76.459,41.044
+"Rutland, VT",-73.037,43.580
+"Winnemucca, NV",-118.112,41.407
+"Worthington, MN",-95.753,43.674
+"Kalamazoo-Portage, MI",-85.784,42.248
+"Ontario, OR-ID",-117.588,43.226
+"Flagstaff, AZ",-111.771,35.839
+"Yuba City, CA",-121.518,39.155
+"Brainerd, MN",-94.243,46.799
+"Beatrice, NE",-96.689,40.262
+"Key West, FL",-81.111,25.316
+"Blackfoot, ID",-112.398,43.217
+"Starkville, MS",-88.879,33.425
+"Sheboygan, WI",-87.945,43.721
+"Gardnerville Ranchos, NV",-119.616,38.912
+"Hattiesburg, MS",-89.229,31.187
+"Corinth, MS",-88.580,34.881
+"Arkansas City-Winfield, KS",-96.838,37.238
+"Wheeling, WV-OH",-80.841,39.975
+"Hillsdale, MI",-84.593,41.888
+"Huron, SD",-98.278,44.414
+"Clovis, NM",-103.347,34.574
+"Pittsfield, MA",-73.206,42.371
+"Cordele, GA",-83.768,31.923
+"Storm Lake, IA",-95.151,42.735
+"Fayetteville-Springdale-Rogers, AR-MO",-94.122,36.196
+"San Francisco-Oakland-Hayward, CA",-122.167,37.781
+"Berlin, NH-VT",-71.422,44.700
+"Tifton, GA",-83.527,31.457
+"Niles-Benton Harbor, MI",-86.412,41.955
+"Ann Arbor, MI",-83.839,42.253
+"Quincy, IL-MO",-91.386,40.028
