@@ -26,8 +26,8 @@ var map = new mapboxgl.Map({
   },
   // style: 'mapbox://styles/benmatheson/cjh2yaf301jjm2sru7r1uz7n7',
 
-  center: [-95, 15],
-  zoom: 4.2
+  center: [-98, 25],
+  zoom: 3.8
 });
 
 
@@ -49,7 +49,7 @@ map.on("load", function() {
 
     paint: {
       "circle-color":" rgba(225, 237, 0, .5)",
-      "circle-radius":7
+      "circle-radius":5
     }
   });
 
