@@ -15,15 +15,18 @@ colnames(mig) <- c("to", "from", "num")
 str(mig)
 mig$num <- gsub(",","", mig$num)
 mig$num <- as.numeric(mig$num)
+mig$to <- gsub(" Metro Area", "", mig$to)
+mig$from <- gsub(" Metro Area", "", mig$from)
 
-
-write_json(mig, "mig.json")
+write_json(mig, "migration.json")
 
 View(mig)
 str(mig)
 max(mig$num)
 unq <- unique(mig$num)
 
-
-
-
+unqLoc <- unique(mig$from)
+centroids <- read_csv("centroidsGeo.csv")
+View(centroids)
+View(unqLoc)
+write_json(centroids, "centroids.js")
