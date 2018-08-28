@@ -294,7 +294,7 @@ background-color: rgba(0,0,0,.01);
 
 position: fixed;
 left: 5%;
-top: 70%;
+top: 64%;
 /*bottom: 10%;*/
 color: whitesmoke;
 /*color: goldenrod;*/
@@ -317,10 +317,11 @@ padding: .4%;
 
 .descContent{
 width: 100%;
+min-width: 0;
 
 position: fixed;
 left: 5%;
-top: 78%;
+top: 70%;
 color: whitesmoke;
 font-size: .8rem;
 display: flex;
@@ -345,7 +346,6 @@ color: whitesmoke;
 /*background-color: rgba(0,0,0,.17);*/
 
 
-
 line-height: 97%;
 
 padding: 1.2%;
@@ -358,7 +358,7 @@ border-radius: 4px;
 
 h1{
 
-top: 5px;
+top: 2px;
 font-size: 1.9rem;
 font-weight: 800;
 background-color: rgba(0,0,0,.42);
@@ -370,7 +370,7 @@ h3{
 
 color: #111;
 background-color: rgba(255,255,255,.77);
-top:66px;
+top:56px;
 font-weight: 400;
 font-style: italic;
 min-width: 80%;
