@@ -2,7 +2,7 @@ const migFiltered = mig.filter(d => !d.to.includes("Outside"));
 mapboxgl.accessToken =
 	"pk.eyJ1IjoiYmVubWF0aGVzb24iLCJhIjoiY2lmZDhyZXVxNTI5eHNtbHgyOTYwbHJtMyJ9.Ch8JQXvunpUrv6tGpeJMCA";
 
-console.log("helpme");
+
 
 //
 var centroids = "./data/centroidsEdit.geojson";
@@ -86,8 +86,7 @@ map.on("mouseenter", "ct", function(e) {
 	const destArray = dests.map(function(d) {
 		if (centroidsLocation.filter(r => r.NAME == d.to) != null) {
 			const loc = centroidsLocation.filter(r => r.NAME == d.to);
-			console.log("loc");
-			console.log(loc);
+			
 
 			const lat = loc[0].lat;
 			const lon = loc[0].lon;
@@ -122,13 +121,45 @@ map.on("mouseenter", "ct", function(e) {
 			properties: { numb: d.num/150 },
 			geometry: {
 				type: "LineString",
-				coordinates: [[d.lon, d.lat], [e.lngLat.lng, e.lngLat.lat]]
+				coordinates: [ [e.lngLat.lng, e.lngLat.lat], [d.lon, d.lat]]
 			}
 		});
 	});
 
 	console.log("da featArr");
 	console.log(featArr);
+
+
+
+
+
+
+const desc = document.querySelector(".desc");
+const descContent = document.querySelector(".descContent");
+
+const city = e.features[0].properties.NAME;
+const destSort = dests.sort((a,b)=>b.num-a.num);
+const top5 = dests.slice(0,5).map((d,i)=>`<div><span class="loc"> ${i+1}. ${d.to}</span> <span class="num">${d.num}</span></div>`).join("")
+
+
+
+function tog () {
+
+	descContent.classList.toggle('toggle');
+	desc.classList.toggle('toggle');
+}
+
+tog();	
+
+
+console.log("top5");
+console.log(top5);
+desc.innerHTML = city;
+descContent.innerHTML = top5;
+
+
+
+
 
 
 

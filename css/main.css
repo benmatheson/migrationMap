@@ -14,6 +14,7 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
+    font-family: "Fira Sans", sans-serif;
 }
 
 h1,h3{
@@ -40,9 +41,11 @@ h1{
 top: 10px;
 font-size: 3.9rem;
 font-weight: 800;
-background-color: rgba(0,0,0,.22);
+background-color: rgba(0,0,0,.42);
 border: solid 3px lightblue;
 text-align: center;
+max-width: 80%;
+
 /*box-shadow:1px 1px 1px 1px lightblue;*/
 
 
@@ -53,12 +56,98 @@ h3{
 color: #111;
 background-color: rgba(255,255,255,.77);
 top:190px;
+padding: .9%;
 font-weight: 400;
 font-style: italic;
-max-width: 20%;
+max-width: 80%;
 text-align: center;
+font-size: 1.1rem;
+
 /*border: solid 1px goldenrod;*/
 
+}
+
+.desc{
+
+position: absolute;
+left: 5%;
+top: 47%;
+color: whitesmoke;
+/*color: goldenrod;*/
+font-size: 1.4rem;
+font-weight: 900;
+border-radius: 3px;
+
+background-color: rgba(0,0,0,.42);
+/*border: solid 2px goldenrod;*/
+  border-bottom: 3px solid goldenrod;
+
+/*background-color: whitesmoke;*/
+/*background-color: goldenrod;*/
+padding: .4%;
+
+}
+
+
+
+.descContent{
+
+position: absolute;
+left: 5%;
+top: 55%;
+color: whitesmoke;
+font-size: .8rem;
+display: flex;
+flex-direction: column;
+font-weight: 300;
+padding: 1%;   
+border-radius:5px;
+
+background-color: rgba(0,0,0,.42);
+/*border: solid 3px lightblue;*/
+
+
+}
+
+.toggle {
+
+    animation: slide .4s ease;
+
+}
+
+
+@keyframes slide {
+
+from {
+    opacity:.3;
+    transform: translateY(-16px);
+    /*filter: blur(30p/x);*/
+   text-shadow: 14px 14px 4px 3px whitesmoke;
+}
+
+to {
+
+    opacity: 1;
+        transform: translateY(0px);
+
+}
+
+
+
+}
+
+
+.loc {
+
+padding-left: 9px;
+}
+
+.num {
+
+    font-size: 1.2rem;
+    font-weight:600;
+  border-bottom: 2px solid goldenrod;
+  padding-left: 4px;
 }
 
 #map {
@@ -76,6 +165,22 @@ text-align: center;
  * Customize the background color to match your design.
  */
 
+
+.cover {
+
+position: fixed;
+display: inline;
+/*border: dashed red;*/
+left:0;
+top:0;
+width: 34%;
+height: 100vh;
+background-color: rgba(0,0,0,.29);
+/*z-index: 99;*/
+
+
+
+}
 ::-moz-selection {
     background: #b3d4fc;
     text-shadow: none;
@@ -152,6 +257,71 @@ textarea {
 @media only screen and (max-device-width: 867px) {
 
 
+    .cover {
+
+position: fixed;
+/*display: inline;*/
+/*border: dashed red;*/
+/*bottom:10px;*/
+/*float:bottom;*/
+top:10px;
+width: 100%;
+height: 30vh;
+background-color: rgba(0,0,0,.01);
+/*z-index: 99;*/
+
+
+
+}
+
+
+.desc{
+
+position: fixed;
+left: 5%;
+top: 70%;
+/*bottom: 10%;*/
+color: whitesmoke;
+/*color: goldenrod;*/
+font-size: 1.4rem;
+font-weight: 900;
+border-radius: 3px;
+
+background-color: rgba(0,0,0,.42);
+/*border: solid 2px goldenrod;*/
+border-bottom: 3px solid goldenrod;
+
+
+/*background-color: whitesmoke;*/
+/*background-color: goldenrod;*/
+padding: .4%;
+
+}
+
+
+
+.descContent{
+width: 100%;
+
+position: fixed;
+left: 5%;
+top: 78%;
+color: whitesmoke;
+font-size: .8rem;
+display: flex;
+flex-direction: column;
+font-weight: 300;
+padding: 1%;   
+border-radius:5px;
+
+background-color: rgba(0,0,0,.42);
+/*border: solid 3px lightblue;*/
+
+
+}
+
+
+
 h1,h3{
 
 position: absolute;
@@ -173,10 +343,10 @@ border-radius: 4px;
 
 h1{
 
-top: 10px;
-font-size: 2.1rem;
+top: 5px;
+font-size: 1.9rem;
 font-weight: 800;
-background-color: rgba(0,0,0,.22);
+background-color: rgba(0,0,0,.42);
 border: solid 1px lightblue;
 
 }
@@ -185,11 +355,12 @@ h3{
 
 color: #111;
 background-color: rgba(255,255,255,.77);
-top:100px;
+top:66px;
 font-weight: 400;
 font-style: italic;
 min-width: 80%;
 text-align: center;
+font-size: .9rem;
 
 }
 
