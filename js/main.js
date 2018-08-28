@@ -24,7 +24,7 @@ var map = new mapboxgl.Map({
 	},
 	// style: 'mapbox://styles/benmatheson/cjh2yaf301jjm2sru7r1uz7n7',
 
-	center: [-107, 31],
+	center: [-107, 25],
 	zoom: 3.6
 });
 
