@@ -1,0 +1,1 @@
+This experimental MapboxGL visualization uses [U.S. Census migration data](https://www.census.gov/data/tables/2015/demo/geographic-mobility/metro-to-metro-migration.html) to show where people from different cities move.
